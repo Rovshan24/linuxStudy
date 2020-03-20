@@ -1,2 +1,2 @@
 # studyLinux
-system administration linkus
+System administration linkus
