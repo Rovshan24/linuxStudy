@@ -1,2 +1,2 @@
 # studyLinux
-System administration linkus
+System administration lectures
